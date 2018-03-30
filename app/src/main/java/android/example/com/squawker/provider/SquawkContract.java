@@ -41,7 +41,7 @@ public class SquawkContract {
 
     @DataType(DataType.Type.TEXT)
     @NotNull
-    public static final String COLUMN_AUTHOR_KEY = "authorKey";
+        public static final String COLUMN_AUTHOR_KEY = "authorKey";
 
     @DataType(DataType.Type.TEXT)
     @NotNull
